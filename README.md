@@ -1,4 +1,4 @@
-# My English Journey — primeira versão PWA
+# arrobaenglish — primeira versão PWA
 
 Aplicação web estática para aprender inglês, com identidade visual navy/pink/laranja.
 
